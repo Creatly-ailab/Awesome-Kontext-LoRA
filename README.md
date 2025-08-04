@@ -36,7 +36,7 @@ Use the open-source Kontext LoRA the Explorer on [Hugging Face](https://huggingf
 [![LibliAI](https://liblibai-web-static.liblib.cloud/liblibai_v4_online/static/_next/static/images/icon-logo.e3ce24f316fb81dbde1cafc3bf956080.svg)](https://www.liblib.art/modelinfo/7fcc11976a344bde9d657f15d76b9a61)
 
 + [Manuscript Style Three Views](https://www.runninghub.ai/model/public/1939368824837742593)
-[![RunningHUB](assets\runninghub.svg)](https://www.runninghub.ai/model/public/1939368824837742593)
+[![RunningHUB](assets/runninghub.svg)](https://www.runninghub.ai/model/public/1939368824837742593)
 
 + [ZOEY-kontext angle editor](https://www.liblib.art/modelinfo/447dc2c312c64d56a343cd12cd6a9677)
 [![LibliAI](https://liblibai-web-static.liblib.cloud/liblibai_v4_online/static/_next/static/images/icon-logo.e3ce24f316fb81dbde1cafc3bf956080.svg)](https://www.liblib.art/modelinfo/447dc2c312c64d56a343cd12cd6a9677)
